@@ -1,3 +1,3 @@
 # my-lazyvim
 要求：
-nvim >=0 .10.x
+nvim >= 0 .11.2
